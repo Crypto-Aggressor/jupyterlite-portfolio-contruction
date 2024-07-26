@@ -48,3 +48,4 @@ seaborn
 yfinance
 pandas_datareader
 tabulate
+polars
