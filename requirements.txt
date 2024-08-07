@@ -50,3 +50,5 @@ pandas_datareader
 tabulate
 polars
 pandas
+statsmodels
+pyarrow
