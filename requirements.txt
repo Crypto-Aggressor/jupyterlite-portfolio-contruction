@@ -13,7 +13,6 @@ jupyterlite-pyodide-kernel==0.3.2
 jupyterlite-javascript-kernel==0.3.0
 
 bash_kernel
-xeus-sql
 
 # Language support (optional)
 jupyterlab-language-pack-fr-FR
