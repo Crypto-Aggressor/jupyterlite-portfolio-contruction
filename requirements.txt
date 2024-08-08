@@ -11,6 +11,8 @@ notebook~=7.1.2
 jupyterlite-pyodide-kernel
 xeus-python
 
+jupyterlab-open-url-parameter
+
 # JavaScript kernel (optional)
 jupyterlite-javascript-kernel==0.3.0
 
