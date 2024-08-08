@@ -2,6 +2,7 @@
 jupyterlite-core==0.3.0
 jupyterlab~=4.1.6
 jupyterlab-sql
+jupyterlite-terminal
 notebook~=7.1.2
 
 
