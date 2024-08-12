@@ -12,6 +12,7 @@ jupyterlite-pyodide-kernel
 xeus-python
 
 jupyterlab-open-url-parameter
+jupyterlab-code-formatter
 
 # JavaScript kernel (optional)
 jupyterlite-javascript-kernel==0.3.0
