@@ -9,7 +9,7 @@ notebook~=7.1.2
 # Python kernel (optional)
 # jupyterlite-pyodide-kernel==0.3.2
 jupyterlite-pyodide-kernel
-xeus-python
+jupyterlite-xeus
 
 jupyterlab-open-url-parameter
 jupyterlab-code-formatter
